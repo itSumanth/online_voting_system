@@ -22,7 +22,7 @@ pip install django-crispy-forms==1.8.0
 
 django-formtools v1.0 
 ```bash
-pip install django-forms==1.0
+pip install django-formtools==1.0
 ```
 
 django-tables2 v2.1.1
